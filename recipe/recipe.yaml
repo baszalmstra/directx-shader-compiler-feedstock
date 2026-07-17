@@ -57,7 +57,7 @@ requirements:
     - brush
     - cmake >=3.17.2
     - ninja
-    - python
+    - python 3.13.*
   host:
     - if: not win
       then: directx-headers
