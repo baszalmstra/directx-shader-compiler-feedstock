@@ -22,12 +22,6 @@ directx_headers:
 - 1.600.10
 macos_machine:
 - x86_64-apple-darwin13.4.0
-pin_run_as_build:
-  python:
-    min_pin: x.x
-    max_pin: x.x
-python:
-- 3.12.* *_cpython
 spirv_headers:
 - 1.4.350
 spirv_tools:
